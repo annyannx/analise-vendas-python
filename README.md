@@ -2,11 +2,11 @@
 
 Projeto de análise de dados desenvolvido em Python com o objetivo de analisar informações de vendas e gerar indicadores para auxiliar na interpretação dos resultados.
 
-##Objetivo
+## Objetivo
 
 Desenvolver uma aplicação capaz de carregar, processar e analisar dados de vendas, identificando informações como faturamento total, produtos com maior desempenho e faturamento por categoria.
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python
 - Pandas
@@ -14,7 +14,7 @@ Desenvolver uma aplicação capaz de carregar, processar e analisar dados de ven
 - CSV
 - Git/GitHub
 
-##Análises realizadas
+## Análises realizadas
 
 - Faturamento total
 - Quantidade total de produtos vendidos
@@ -24,7 +24,7 @@ Desenvolver uma aplicação capaz de carregar, processar e analisar dados de ven
 - Faturamento por categoria
 - Visualização dos resultados através de gráficos
 
-##Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 analise-vendas-python/
